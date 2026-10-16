@@ -10,7 +10,6 @@ BlueHorizon is a responsive single-page website built with React, TypeScript, Vi
 
 ![BlueHorizon landing page](/pic/Screenshot_16-10-2026_02623_localhost.jpeg)
 
-> Placeholder: take a screenshot of the running site, save it as `docs/screenshot.png`, and it will appear here.
 
 ## Key Features
 
