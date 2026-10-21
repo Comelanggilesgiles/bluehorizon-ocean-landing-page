@@ -147,5 +147,5 @@ docker run -d --name bluehorizon-web -p 8080:80 bluehorizon/landing:latest
 | `sand`  | `#f3e4cd` | Warm accents            |
 
 ## Author
-
+Giles Andrew A. Comelang 
 Comelanggilesgiles - https://github.com/Comelanggilesgiles
